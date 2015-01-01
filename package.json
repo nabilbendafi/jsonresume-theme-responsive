@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-responsive",
+  "version": "0.0.2",
+  "description": "Responsive theme for JSON Resume",
+  "author": "Nabil Bendafi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nabilbendafi/jsonresume-theme-responsive"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
