@@ -115,7 +115,6 @@
               {{#each courses}}
               <h4>&bull; {{.}}</h4>
               {{/each}}
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
             </article>
             {{/each}}
           </div>
